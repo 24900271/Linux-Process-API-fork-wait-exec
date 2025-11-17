@@ -50,8 +50,8 @@ int main() {
 ```
 
 ## OUTPUT
+![alt text](image.png)
 
-<img width="966" height="618" alt="ex o2 os" src="https://github.com/user-attachments/assets/b09f78e6-f51c-4713-8d21-a09601052baf" />
 
 
 
@@ -102,8 +102,7 @@ int main() {
 ```
 
 ## OUTPUT
-
-<img width="941" height="594" alt="os 02" src="https://github.com/user-attachments/assets/4b50591a-9b8e-476f-8e82-585b5bc1c0b7" />
+![alt text](image-1.png)
 
 
 ## RESULT:
